@@ -12,14 +12,14 @@ message = 'Entra lá no servidor irmão! https://www.baiakdosputons.com/'
 my_spam_bot = SpamythonMessage('Baiak Illusions', message)
 ```
 
-Assim você tem uma instância do servidor que deseja iniciar a divulgação. Um **JSON** é criado na pasta de **logs** contendo dados sobre todos os jogadores do servidor em questão. Por fim basta chamar o método {c:green}_**shooting_messages**_{/c}():
+Assim você tem uma instância do servidor que deseja iniciar a divulgação. Um **JSON** é criado na pasta de **logs** contendo dados sobre todos os jogadores do servidor em questão. Por fim basta chamar o método <span style="color:blue">_**shooting_messages**_</span>():
 
 ```PYTHON
 my_spam_bot.shooting_messages():
 ```
 
 Aproveite seu tempo enquanto uma sequência de mensagens é enviada para cada jogador online.
-**Criador**: _Rodrigo S**#**7737_
+**Criador**: _Rodrigo S_**#**_7737_
 
 _Com ❤️ Rodrigo Siliunas_, _**Jazz**_. 
 
