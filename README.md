@@ -31,4 +31,4 @@ Caso você esteja no **Windows**, abra um _terminal_ ou _powershell_ no **diret�
 .\enviroment\scripts\activate
 ```
 
-<img src="https://imgur.com/8NRnHLq.png" alt="Uma imagem simples do chat com a aplicação em execução."/>
+<img src="https://imgur.com/8NRnHLq.png" alt="Uma imagem simples do chat com a aplicação em execução." />
