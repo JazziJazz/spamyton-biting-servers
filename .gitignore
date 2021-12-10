@@ -2,3 +2,4 @@
 .idea
 src/pasta_particular
 src/**/__pycache__
+**.json
