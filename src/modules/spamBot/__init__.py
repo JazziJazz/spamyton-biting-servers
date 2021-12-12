@@ -39,7 +39,7 @@ class SpamBot(Bot):
 
     def start_send_message(self) -> None:
         path = os.path.abspath(os.path.join(
-            os.path.dirname(__file__), "../..")) + "/players.json"
+            os.path.dirname(__file__), "..\..\..\logs")) + "\players.json"
         messages_sent = 0
 
         with open(path) as data:
